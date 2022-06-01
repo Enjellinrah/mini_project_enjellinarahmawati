@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "shade 01",
+    "description": "shade yang cocok untuk semua jenis",
+    "product_type": "soft",
+    "image_tag": "lipstik 01.jpg",
+    "created_at": 2022,
+    "owner": "tanjel",
+    "price": 19.9
+  },
+  {
+    "id": 2,
+    "title": "shade 02",
+    "description": "cocok untuk warna bibir merah muda",
+    "product_type": "soft",
+    "image_tag": "images.jpg",
+    "created_at": 2022,
+    "owner": "tanjel",
+    "price": 25
+  },
+  {
+    "id": 3,
+    "title": "shade 03",
+    "description": "shade yang cocok untuk warna bibir gelap",
+    "product_type": "soft",
+    "image_tag": "lipstik 03.jpg",
+    "created_at": 2022,
+    "owner": "tanjel",
+    "price": 15.5
+  },
+  {
+    "id": 4,
+    "title": "shade 04",
+    "description": "warna yang strong yang membuat wanita tampil menawan",
+    "product_type": "strong",
+    "image_tag": "images (1).jpg",
+    "created_at": 2022,
+    "owner": "tanjel",
+    "price": 30.3
+  }
+  
+]
